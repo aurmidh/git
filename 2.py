@@ -1,3 +1,4 @@
+#2
 class Figure(ABC):
     def __init__(self, height, width):
         self.height = height
